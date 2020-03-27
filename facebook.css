@@ -1,0 +1,184 @@
+*{
+    margin: 0%;
+}   
+.main{   
+    background-color: #c5c5c5;
+}
+.header{
+    margin: 0 auto;
+    background-color: #3b5998;
+    height: 75px;
+    width: 60% ;
+    color: white;
+}
+.mainheader{
+    background-color: #3b5998;
+}
+
+.main2{
+    margin: 3% 20%;
+    background-color: teal;
+}
+
+.logo{
+    float: left;
+    line-height: 75px;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+}
+/* .login{
+
+    background-color: rgb(23, 190, 174);
+    float: right;
+    width: 50%;
+    margin-left: 100px;
+    margin-right: -100px;
+    margin-top: 10px;
+    padding-right: 200px;
+ 
+} */
+.email{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    float:left;  
+    margin-top: 10px;
+    margin-left: 350px;  
+    padding-right: 15px;
+    width: -40%
+}
+.pass{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    float: left;
+    margin-right: 0px;
+    margin-top: 10px;
+    padding-right: 15px;
+    width: -40%
+
+
+}
+.login-button{
+    float: left;
+    line-height: 75px;
+}
+.login-button button{
+    background-color:#4c6aaa; 
+    border: 0.5px solid rgb(59, 59, 59);
+    color: white;
+}
+.login-button button:hover{
+    background-color:  #3b5998;
+}
+.container1{
+    float: left;
+
+}
+.para1{
+    margin-bottom: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(51, 51, 51);
+    
+}
+.para2{
+    /* padding: 7%; */
+    margin-left: 10%;
+    line-height: 60px;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+    width: 100%;
+    
+   
+}
+.one .two{
+    padding-bottom: 5%;
+    
+}
+.container2{
+    float: right;
+}
+.container3{
+    float: right;
+    width: 400px;
+    /* background-color: wheat; */
+    margin-top:8px;
+}
+.container3 label{
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    color: rgb(124, 124, 124);
+    font-weight: bold;
+}
+.signup{
+    float: right;
+    width: 400px;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    color: rgb(51, 51, 51);
+    font-size: 30px;
+    font-weight: bold;
+}
+.signup h3{
+    font-weight: lighter;
+    font-size: 14px;
+}
+.cont input{
+    width: 90%;
+}
+.input1 input{
+    border-radius: 5px;
+    height: 20px;
+    border: 0.5px solid grey;
+    outline: none;
+    margin-top: 7px;
+    padding: 8px;
+}
+.input1 ::placeholder{
+    font-size: 17px;
+}
+
+.gender label{
+    color: black;
+    font-weight: lighter;
+    font-size: 17px;
+  
+}
+.gender{
+    padding-left: 25px;
+    margin: 15px 0;
+}
+.para4{
+    font-size: 11px;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    color: rgb(51, 51, 51);
+    margin-right: 80px;
+}
+.submit input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(92, 153, 66);
+    border-style: solid;
+    border-color: rgb(131, 131, 131);
+    border-radius: 4px;
+    border-width: 0.5px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.submit input:hover{
+    background-color: #69A74E;
+}
+.para3 h2{
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+    margin-top: 8px;
+}
+.para3 hr{
+    width: 93%;
+    border: 0.5px solid rgb(163, 163, 163);
+}
+.page{
+    color: #3b5998;;
+}
+
